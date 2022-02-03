@@ -1,0 +1,289 @@
+Using pre-set license
+
+ COMMAND LINE ARGUMENTS:
+/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/MacOS/Unity
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+/Users/ravikundu/# Company Proj/Unity_Project/KinectDinos
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+49393
+Successfully changed project path to: /Users/ravikundu/# Company Proj/Unity_Project/KinectDinos
+/Users/ravikundu/# Company Proj/Unity_Project/KinectDinos
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 57.83 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.12f1 (b3b2c6512326)
+[Subsystems] Discovering subsystems at path /Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Users/ravikundu/# Company Proj/Unity_Project/KinectDinos/Assets
+GfxDevice: creating device client; threaded=0
+2022-01-06 22:37:00.725 Unity[763:8106] Color LCD preferred device: Intel(R) Iris(TM) Graphics 6100 (low power)
+2022-01-06 22:37:00.725 Unity[763:8106] Metal devices available: 1
+2022-01-06 22:37:00.725 Unity[763:8106] 0: Intel(R) Iris(TM) Graphics 6100 (low power)
+2022-01-06 22:37:00.726 Unity[763:8106] Using device Intel(R) Iris(TM) Graphics 6100 (low power)
+Initializing Metal device caps: Intel(R) Iris(TM) Graphics 6100
+Initialize mono
+Mono path[0] = '/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Managed'
+Mono path[1] = '/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = '/Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56763
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/Unity/Hub/Editor/2020.3.12f1/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: /Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Register platform support module: /Applications/Unity/Hub/Editor/2020.3.12f1/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002838 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 80.87 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  7.567 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.014642 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.89 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.073 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launching external process: /Applications/Unity/Hub/Editor/2020.3.12f1/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.02 seconds
+Refreshing native plugins compatible for Editor in 0.46 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1636 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 175.2 MB.
+System memory in use after: 175.3 MB.
+
+Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 2086.
+Total: 2.044769 ms (FindLiveObjects: 0.194486 ms CreateObjectMapping: 0.051366 ms MarkObjects: 1.678292 ms  DeleteObjects: 0.119549 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/PBRVelociraptor/Materials/PBR/RaptorEyesClawsTeethSpikes.mat
+  artifactKey: Guid(ec5a14d7ed2fca346aff25b22f8e6019) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PBRVelociraptor/Materials/PBR/RaptorEyesClawsTeethSpikes.mat using Guid(ec5a14d7ed2fca346aff25b22f8e6019) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cbf2a377bd4a8d286b0e8f7e935963d4') in 0.665576 seconds 
+  Import took 0.670199 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.051682 seconds.
+  path: Assets/Jurassic Pack/Creatures/VOLI/Ankylosaurus/anky.mat
+  artifactKey: Guid(106c9e7a9dbdcab4dbac50b946c357c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Jurassic Pack/Creatures/VOLI/Ankylosaurus/anky.mat using Guid(106c9e7a9dbdcab4dbac50b946c357c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6daec22ceab33c7b4fb74026c00dc94e') in 0.008334 seconds 
+  Import took 0.012518 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.068365 seconds.
+  path: Assets/PBRVelociraptor/Animators/DemoAnimatorWalk.controller
+  artifactKey: Guid(cbb93de8376372a4d9b86c5df56d4814) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PBRVelociraptor/Animators/DemoAnimatorWalk.controller using Guid(cbb93de8376372a4d9b86c5df56d4814) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ff6589b0cba3a4e4e402613e225cf1b8') in 1.295057 seconds 
+  Import took 1.299076 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.038731 seconds.
+  path: Assets/Jurassic Pack/Creatures/VOLI/Triceratops/tric.controller
+  artifactKey: Guid(ddc4799a9f7ec8547a73375f59a6a155) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Jurassic Pack/Creatures/VOLI/Triceratops/tric.controller using Guid(ddc4799a9f7ec8547a73375f59a6a155) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ccebabd140aac902765ab396289062c0') in 0.011510 seconds 
+  Import took 0.015147 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.008332 seconds.
+  path: Assets/PBRVelociraptor/Materials/PBR/RaptorCornea.mat
+  artifactKey: Guid(bfd20e4e51244144180385289d05ea7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PBRVelociraptor/Materials/PBR/RaptorCornea.mat using Guid(bfd20e4e51244144180385289d05ea7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '39682715b5350fff85a5c9c9e4b2fe12') in 0.009830 seconds 
+  Import took 0.013587 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.012956 seconds.
+  path: Assets/Jurassic Pack/Creatures/VOLI/Ankylosaurus/ankyB.png
+  artifactKey: Guid(07919748da171b14590c34acad51db12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Jurassic Pack/Creatures/VOLI/Ankylosaurus/ankyB.png using Guid(07919748da171b14590c34acad51db12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f13d0592c6f3603d8913cf7bb861a7d0') in 1.086750 seconds 
+  Import took 1.091012 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.015672 seconds.
+  path: Assets/BG Photo/front_grass.png
+  artifactKey: Guid(1135e7a8ad65ff64e91652fb19e5f830) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BG Photo/front_grass.png using Guid(1135e7a8ad65ff64e91652fb19e5f830) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a9e2d9a1695580ead8866dfff222ac0b') in 0.007224 seconds 
+  Import took 0.010496 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.035099 seconds.
+  path: Assets/BG Photo/Materials/front_grass.mat
+  artifactKey: Guid(3fa5f26dfe4ce8a49b483cdcc2cabe87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BG Photo/Materials/front_grass.mat using Guid(3fa5f26dfe4ce8a49b483cdcc2cabe87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ca263c8012cb9248c433ee4e5a505d35') in 0.452803 seconds 
+  Import took 0.456148 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.038013 seconds.
+  path: Assets/BG Photo/5rcu_m1bu_210318.jpg
+  artifactKey: Guid(143e42f0f6dc5e840b090dd581ffad4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BG Photo/5rcu_m1bu_210318.jpg using Guid(143e42f0f6dc5e840b090dd581ffad4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '060415145d6b93b86f2d697e0a7d2b18') in 1.034082 seconds 
+  Import took 1.037683 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.018304 seconds.
+  path: Assets/Jurassic Pack/Shared/eyes.mat
+  artifactKey: Guid(9c9fbb993b5a792468b38776ec297741) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Jurassic Pack/Shared/eyes.mat using Guid(9c9fbb993b5a792468b38776ec297741) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a72d8076bc297f9bb0d29594da5d8249') in 0.009563 seconds 
+  Import took 0.012815 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.023147 seconds.
+  path: Assets/Scripts/lookatplayer.cs
+  artifactKey: Guid(c7733877acf600441ac301266fada2b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/lookatplayer.cs using Guid(c7733877acf600441ac301266fada2b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0669f7b7ca6c440d20160597bfcefc3f') in 0.384834 seconds 
+  Import took 0.388012 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.009363 seconds.
+  path: Assets/Jurassic Pack/Creatures/VOLI/Ankylosaurus/ankyN.png
+  artifactKey: Guid(936726eaac5e63a4996412fc04c58f95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Jurassic Pack/Creatures/VOLI/Ankylosaurus/ankyN.png using Guid(936726eaac5e63a4996412fc04c58f95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7ccb5edb8aef5a9b84bfff0a38b44af1') in 0.024379 seconds 
+  Import took 0.027740 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.086426 seconds.
+  path: Assets/Jurassic Pack/Creatures/VOLII/Carnotaurus/carn.controller
+  artifactKey: Guid(69e062a683e759548b1f4d8c884afb8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Jurassic Pack/Creatures/VOLII/Carnotaurus/carn.controller using Guid(69e062a683e759548b1f4d8c884afb8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2747eca5c5b179fa4ffb92b636080192') in 0.009852 seconds 
+  Import took 0.013603 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001751 seconds.
+  path: Assets/PBRVelociraptor/Materials/PBR/RaptorBodyB.mat
+  artifactKey: Guid(1e5ec7b8a50b22440ab527b61557b73a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PBRVelociraptor/Materials/PBR/RaptorBodyB.mat using Guid(1e5ec7b8a50b22440ab527b61557b73a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cba1c916fe22b15fe0cd1396394fbbac') in 0.007413 seconds 
+  Import took 0.010627 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.017793 seconds.
+  path: Assets/K2Examples/KinectDemos/OverlayDemo/Scripts/JointOverlayer.cs
+  artifactKey: Guid(b214f137e3db1904cb260afce1e0b463) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/K2Examples/KinectDemos/OverlayDemo/Scripts/JointOverlayer.cs using Guid(b214f137e3db1904cb260afce1e0b463) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '49e71fe40f6445ba638f3f2a13905b9d') in 0.002073 seconds 
+  Import took 0.005344 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.013207 seconds.
+  path: Assets/Jurassic Pack/Creatures/VOLI/Ankylosaurus/ankyC.png
+  artifactKey: Guid(fc58b537941181b47b770e70b5e67656) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Jurassic Pack/Creatures/VOLI/Ankylosaurus/ankyC.png using Guid(fc58b537941181b47b770e70b5e67656) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef24c8d15be184acbddd05a38bf388ae') in 0.011598 seconds 
+  Import took 0.014740 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.010431 seconds.
+  path: Assets/Jurassic Pack/Creatures/VOLI/Parasaurolophus/Para.cs
+  artifactKey: Guid(bca7cdfdafe49d343a30561a6ae1726a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Jurassic Pack/Creatures/VOLI/Parasaurolophus/Para.cs using Guid(bca7cdfdafe49d343a30561a6ae1726a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '846741c9cfd37d34a93d2217a2960dd0') in 0.001757 seconds 
+  Import took 0.005141 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.020170 seconds.
+  path: Assets/BG Photo/Materials/5rcu_m1bu_210318.mat
+  artifactKey: Guid(45c088cb08c18f14ba87ed4c536df436) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BG Photo/Materials/5rcu_m1bu_210318.mat using Guid(45c088cb08c18f14ba87ed4c536df436) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5f8342856b6c45eeb24da0710144b44f') in 0.012610 seconds 
+  Import took 0.016017 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.011942 seconds.
+  path: Assets/Jurassic Pack/Shared/Creature.cs
+  artifactKey: Guid(846732faa4140374da4cf31dbbfc52e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Jurassic Pack/Shared/Creature.cs using Guid(846732faa4140374da4cf31dbbfc52e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '996145c5e68f098d781045658259d0a3') in 0.001851 seconds 
+  Import took 0.005130 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004455 seconds.
+  path: Assets/Jurassic Pack/Creatures/VOLI/Pteranodon/ptera.mat
+  artifactKey: Guid(47a1277711e408b4ba90fde607d91e9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Jurassic Pack/Creatures/VOLI/Pteranodon/ptera.mat using Guid(47a1277711e408b4ba90fde607d91e9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4182126ce859919973615cbbf965c198') in 0.007807 seconds 
+  Import took 0.011074 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.033734 seconds.
+  path: Assets/Scripts/MoveObjAsPerKinect.cs
+  artifactKey: Guid(b408a5e89230347679c53d39521f3074) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/MoveObjAsPerKinect.cs using Guid(b408a5e89230347679c53d39521f3074) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '855210897437e618160080a20b0148d4') in 0.002121 seconds 
+  Import took 0.005288 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.024621 seconds.
+  path: Assets/Scripts/LookAtSmoothN2.cs
+  artifactKey: Guid(3295a0b5876534818b935effb3a69377) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/LookAtSmoothN2.cs using Guid(3295a0b5876534818b935effb3a69377) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '51243e6b34116d3075cbfb26a5909446') in 0.002052 seconds 
+  Import took 0.005543 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004579 seconds.
+  path: Assets/Jurassic Pack/Creatures/VOLI/Ankylosaurus/anky.controller
+  artifactKey: Guid(dfbb06f5475bfa44a9824b22cf114a01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Jurassic Pack/Creatures/VOLI/Ankylosaurus/anky.controller using Guid(dfbb06f5475bfa44a9824b22cf114a01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c8308e9cca1e670093aedffa6c0c25e4') in 0.006698 seconds 
+  Import took 0.010125 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001760 seconds.
+  path: Assets/Jurassic Pack/Creatures/VOLI/Ankylosaurus/Anky.fbx
+  artifactKey: Guid(c3633ed157ad70b4daba0326c9e5d0da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Jurassic Pack/Creatures/VOLI/Ankylosaurus/Anky.fbx using Guid(c3633ed157ad70b4daba0326c9e5d0da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '34f7ddd6ebfaa6079d8cffec1df7bc0d') in 0.485608 seconds 
+  Import took 0.491390 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.021720 seconds.
+  path: Assets/Jurassic Pack/Creatures/VOLI/Brachiosaurus/brach.controller
+  artifactKey: Guid(c052bee15d76a924c8acaab48ed4bbab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Jurassic Pack/Creatures/VOLI/Brachiosaurus/brach.controller using Guid(c052bee15d76a924c8acaab48ed4bbab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f6387ea03ccd522c9b542343aab3a2a6') in 0.011213 seconds 
+  Import took 0.015262 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.049434 seconds.
+  path: Assets/Jurassic Pack/Creatures/VOLI/Ankylosaurus/ankyA.png
+  artifactKey: Guid(2920f2b9c9afd144aac8687d2f013aaa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Jurassic Pack/Creatures/VOLI/Ankylosaurus/ankyA.png using Guid(2920f2b9c9afd144aac8687d2f013aaa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c72dc64354146f9cf2602be24341a523') in 0.013125 seconds 
+  Import took 0.016312 seconds .
+

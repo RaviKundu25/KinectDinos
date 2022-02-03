@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{28A1B1D0-46D8-ACF6-17AA-704761614C44}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/LookAtSmoothN.cs">
+    <Files>
+      <File FileName="Assets/Scripts/LookAtSmoothN.cs" Line="94" Column="38" />
+      <File FileName="Assets/Scripts/MoveObjAsPerKinect.cs" />
+      <File FileName="Assets/Scripts/LookAtSmooth.cs" />
+      <File FileName="Assets/Scripts/lookatplayer.cs" />
+      <File FileName="Assets/Scripts/LookAtSmoothN2.cs" Line="113" Column="42" />
+      <File FileName="Assets/lookatplayer3.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="KinectDinos" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Jurassic Pack" expanded="True">
+                <Node name="Shared" expanded="True" />
+              </Node>
+              <Node name="Scripts" expanded="True">
+                <Node name="LookAtSmoothN.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="1b828e2c-082c-40ab-b37d-5f01a60f18e1" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
